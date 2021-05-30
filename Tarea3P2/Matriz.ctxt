@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Matriz
+comment1.params=tam
+comment1.target=Matriz(int)
+comment2.params=num
+comment2.target=void\ llenarMatriz(int)
+comment3.params=
+comment3.target=void\ recorridoCaracol()
+comment4.params=
+comment4.target=void\ recorridoEnX()
+comment5.params=matriz
+comment5.target=void\ mostrar(int[][])
+numComments=6
